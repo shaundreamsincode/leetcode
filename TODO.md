@@ -7,3 +7,5 @@ https://leetcode.com/problems/merge-two-sorted-lists/
 https://leetcode.com/problems/palindrome-number
 
 https://leetcode.com/problems/remove-element
+
+https://leetcode.com/problems/min-cost-climbing-stairs/submissions/
