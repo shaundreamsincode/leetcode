@@ -12,13 +12,6 @@ def delete_duplicates(head)
         else
             current_node = current_node.next
             next_node = current_node.next
-        end
-        # if node_val_counts[current_node] > 0
-        #     current_node.next = current_node.next.next
-        # else
-        #     node_val_counts[current_node.val] += 1
-        # end
-    end
-    
+        end    
     head
 end
